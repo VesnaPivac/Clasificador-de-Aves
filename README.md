@@ -1,6 +1,6 @@
 # Clasificador de Aves con Transfer Learning
 
-Este proyecto tiene como objetivo implementar transfer learning utilizando un dataset de aves obtenido de Kaggle. El dataset, disponible en Kaggle [BIRDS 525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download&select=birds.csv), será utilizado para crear un entregable para la materia de Redes Neuronales de la Maestría en Ciencia de Datos en la Universidad de Sonora.
+Este proyecto tiene como objetivo implementar transfer learning utilizando un dataset de aves obtenido de Kaggle. El dataset, disponible en Kaggle [BIRDS 525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download&select=birds.csv), será utilizado para crear un entregable para la materia de Redes Neuronales Profundas de la Maestría en Ciencia de Datos en la Universidad de Sonora.
 
 ## Descripción del Proyecto
 El clasificador de aves utiliza técnicas de transfer learning para adaptar un modelo preentrenado a la clasificación de aves en múltiples categorías. Este proyecto representa un enfoque end-to-end (E2E), desde la adquisición y preparación de datos hasta la implementación y evaluación del modelo.
