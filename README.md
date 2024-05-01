@@ -29,6 +29,6 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
 
 
 
-
+<br>
 <br>
 *Basado en el repositorio Exportación Perros Gatos de Ringa Tech.*
