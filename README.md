@@ -31,4 +31,4 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
 
 <br>
 
-*Basado en el repositorio Exportación Perros Gatos de Ringa Tech.*
+*Basado en el repositorio [Exportación Perros Gatos](https://github.com/ringa-tech/clasificador-perros-gatos/tree/main) de Ringa Tech.*
