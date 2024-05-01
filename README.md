@@ -34,6 +34,7 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
    Esto iniciará un servidor local en el puerto 8000.
 2. Abre tu navegador web y accede a la siguiente ruta: http://localhost:8000/index.html
     Esto te llevará a la interfaz web de la aplicación.
+<img src="https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png" alt="Texto alternativo" width="400">
 
 ### Para la versión móvil:
 1. Crea una cuenta en [ngrok](https://ngrok.com/).
@@ -50,10 +51,9 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
   Esto generará un enlace de acceso público que podrás usar en dispositivos móviles.
 5. Copia el enlace de "forwarding" proporcionado por ngrok y accede a él desde tu dispositivo móvil para comenzar a utilizar la aplicación.
 
-![index_cel.gif](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/Video_Aves.gif)
-
-![image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png)
-
+<p align="center">
+  <img src="https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/Video_Aves.gif" alt="Texto alternativo">
+</p>
 
 
 
