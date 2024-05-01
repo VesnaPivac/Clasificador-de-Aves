@@ -25,6 +25,41 @@ Instala las dependencias necesarias (TensorFlow, etc.).
 Ejecuta el archivo index.html en un navegador para acceder al clasificador de aves en tiempo real.
 Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarrollo del modelo y la conversión a TensorFlow.js.
 
+## Implementación
+### Para la versión web:
+1. En el directorio del proyecto, ejecuta el siguiente comando en la línea de comandos:
+```bash
+python -m http.server 8000
+```
+Esto iniciará un servidor local en el puerto 8000.
+
+2. Abre tu navegador web y accede a la siguiente ruta: http://localhost:8000/index.html
+
+Esto te llevará a la interfaz web de la aplicación.
+
+### Para la versión móvil:
+
+1. Crea una cuenta en [ngrok](https://ngrok.com/).
+
+2. Después de crear tu cuenta, copia tu token de autenticación proporcionado por ngrok.
+
+3. En la consola de comandos, ejecuta el siguiente comando para configurar tu token de autenticación en ngrok:
+
+```bash
+ngrok config add-authtoken <token>
+```
+Asegúrate de reemplazar `<token>` con tu token de autenticación.
+
+4. Luego, ejecuta el siguiente comando para iniciar el túnel y exponer tu servidor local:
+
+```bash
+ngrok http 8000
+```
+Esto generará un enlace de acceso público que podrás usar en dispositivos móviles.
+
+5. Copia el enlace de "forwarding" proporcionado por ngrok y accede a él desde tu dispositivo móvil para comenzar a utilizar la aplicación.
+
+
 ![image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png)
 
 
