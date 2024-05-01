@@ -25,7 +25,7 @@ Instala las dependencias necesarias (TensorFlow, etc.).
 Ejecuta el archivo index.html en un navegador para acceder al clasificador de aves en tiempo real.
 Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarrollo del modelo y la conversión a TensorFlow.js.
 
-![image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png =600x400)
+![image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png)
 
 
 
