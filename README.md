@@ -50,6 +50,7 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
   Esto generará un enlace de acceso público que podrás usar en dispositivos móviles.
 5. Copia el enlace de "forwarding" proporcionado por ngrok y accede a él desde tu dispositivo móvil para comenzar a utilizar la aplicación.
 
+![index_cel.gif](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/Video_Aves.gif)
 
 ![image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png)
 
