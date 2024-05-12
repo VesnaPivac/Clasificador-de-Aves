@@ -7,8 +7,8 @@ El clasificador de aves utiliza técnicas de transfer learning para adaptar un m
 
 ## Estructura de los Datasets
 El proyecto utiliza tres conjuntos de datos de aves con la siguiente estructura:
-- **Conjunto de Entrenamiento**: Contiene 85835 archivos pertenecientes a 529 clases diferentes de aves.
-- **Conjunto de Prueba**: Incluye 3035 archivos distribuidos en las mismas 529 clases utilizadas en el conjunto de entrenamiento.
+- **Conjunto de Entrenamiento**: Contiene 85835 archivos pertenecientes a 525 clases diferentes de aves.
+- **Conjunto de Prueba**: Incluye 3035 archivos distribuidos en las mismas 525 clases utilizadas en el conjunto de entrenamiento.
 - **Conjunto de Validación**: Posee 2625 archivos pertenecientes a 525 clases de aves
 
 ## Estructura del Repositorio
