@@ -35,7 +35,9 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
 2. Abre tu navegador web y accede a la siguiente ruta: http://localhost:8000/index.html
     Esto te llevará a la interfaz web de la aplicación.
 
-![https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/index.jpg](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/index.jpg)
+<p align="center">
+  <img src="https://github.com/VesnaPivac/Clasificador-de-Aves/raw/main/index.jpg" alt="Texto Alternativo">
+</p>
 
 ### Para la versión móvil:
 1. Crea una cuenta en [ngrok](https://ngrok.com/).
