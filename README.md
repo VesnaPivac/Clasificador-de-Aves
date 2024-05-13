@@ -54,9 +54,7 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
   Esto generará un enlace de acceso público que podrás usar en dispositivos móviles.
 5. Copia el enlace de "forwarding" proporcionado por ngrok y accede a él desde tu dispositivo móvil para comenzar a utilizar la aplicación.
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1mr6_DsxY4nzoc5eTIjvIqRXVdgXez5vt" alt="Texto Alternativo">
-</p>
+
 
 
 
