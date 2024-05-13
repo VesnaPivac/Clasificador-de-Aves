@@ -55,7 +55,7 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
 5. Copia el enlace de "forwarding" proporcionado por ngrok y accede a él desde tu dispositivo móvil para comenzar a utilizar la aplicación.
 
 <p align="center">
-  <img src="https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/Video_Aves.gif" alt="Texto alternativo">
+  <img src="https://drive.google.com/file/d/1mr6_DsxY4nzoc5eTIjvIqRXVdgXez5vt/view?usp=sharing" alt="Texto alternativo">
 </p>
 
 
