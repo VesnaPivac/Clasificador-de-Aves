@@ -36,7 +36,7 @@ Explora la libreta PF-ClasificadorAvesFinal.ipynb para ver el proceso de desarro
     Esto te llevará a la interfaz web de la aplicación.
 
 <p align="center">
-   <img src="https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png" alt="Texto alternativo" width="400">
+   <img src="[https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/image_index.png](https://github.com/VesnaPivac/Clasificador-de-Aves/blob/main/index.jpg)" alt="Texto alternativo" width="400">
 </p>
 
 ### Para la versión móvil:
